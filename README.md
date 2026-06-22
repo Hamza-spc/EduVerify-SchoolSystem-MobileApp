@@ -1,3 +1,4 @@
+
 # EduVerify 🎓
 
 > A mobile platform for academic enrollment and document verification using OCR technology.
@@ -48,7 +49,12 @@ Built as an academic project at **EMSI Marrakech** (March 2025 – June 2025).
 
 ## 📱 Screenshots
 
+<img width="200" height="500" alt="ChatGPT Image 22 juin 2026, 16_37_18" src="https://github.com/user-attachments/assets/40609c67-f997-4e82-bc33-d22dac6234df" />
 
+<img width="200" height="500" alt="ChatGPT Image 22 juin 2026, 16_37_29" src="https://github.com/user-attachments/assets/0515e4ab-5b05-4c36-a355-1f00e8ce7409" />
+
+
+<img width="200" height="500" alt="ChatGPT Image 22 juin 2026, 16_37_38" src="https://github.com/user-attachments/assets/1c286a5c-20f3-4681-8b93-0d77f118ef51" />
 
 ---
 
