@@ -48,12 +48,12 @@ Built as an academic project at **EMSI Marrakech** (March 2025 – June 2025).
 
 ## 📱 Screenshots
 
-<img width="200" height="400" alt="ChatGPT Image 22 juin 2026, 16_37_18" src="https://github.com/user-attachments/assets/d7fb2e89-b71f-412a-aaad-ea314a68a98e" />
+<img width="50" height="100" alt="ChatGPT Image 22 juin 2026, 16_37_18" src="https://github.com/user-attachments/assets/d7fb2e89-b71f-412a-aaad-ea314a68a98e" />
 
 
-<img width="200" height="400" alt="ChatGPT Image 22 juin 2026, 16_37_29" src="https://github.com/user-attachments/assets/ab2a7aae-7047-4252-a7f9-487f5606a641" />
+<img width="50" height="100" alt="ChatGPT Image 22 juin 2026, 16_37_29" src="https://github.com/user-attachments/assets/ab2a7aae-7047-4252-a7f9-487f5606a641" />
 
-<img width="200" height="400" alt="ChatGPT Image 22 juin 2026, 16_37_38" src="https://github.com/user-attachments/assets/b41c1787-3732-41a4-bf21-2a778f9c665a" />
+<img width="50" height="100" alt="ChatGPT Image 22 juin 2026, 16_37_38" src="https://github.com/user-attachments/assets/b41c1787-3732-41a4-bf21-2a778f9c665a" />
 
 ---
 
